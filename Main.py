@@ -1,3 +1,5 @@
+# Main code
+
 from tkinter import Tk, Frame, Label, Button
 from rmxvi import wishme , cycle
 from tkinter.ttk import *
